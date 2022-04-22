@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @oguztoragay
 - 👀 I’m interested in application of optimization (almost in any type) to solve engineering problems. 
 - 🌱 I’m currently learning Pyomo (Python Optimization Modeling Object)
-- 💞️ I’m looking to collaborate on structural optimization modeling and heuristic methods to solve topology optimizations
+- 💞️ I’m looking to collaborate on Mathematical modeling, Heuristic, and Metaheuristic approaches to solve structural optimization problems specifically topology optimizations for lightweight frame structures for additive manufacturing.
 - 📫 How to reach me: ozt0008 at [auburn] dot [edu]
 
 <!---
