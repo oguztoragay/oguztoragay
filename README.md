@@ -1,6 +1,6 @@
-- 👋 Hi, I’m @oguztoragay
+- 👋 Hi, I’m Oguz Toragay
 - 👀 I’m interested in application of optimization (almost in any type) to solve engineering problems. 
-- 🌱 I’m currently learning Pyomo (Python Optimization Modeling Object)
+- 🌱 I’m currently using Pyomo (Python Optimization Modeling Object) for my projects
 - 💞️ I’m looking to collaborate on Mathematical modeling, Heuristic, and Metaheuristic approaches to solve structural optimization problems specifically topology optimizations for lightweight frame structures for additive manufacturing.
 - 📫 How to reach me: ozt0008 at [auburn] dot [edu]
 
