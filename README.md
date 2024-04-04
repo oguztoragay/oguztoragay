@@ -36,7 +36,7 @@
 ---
 
 <p align="center">
-  <img height="180em" width="300em" src="https://github-readme-stats.vercel.app/api?username=oguztoragay&show_icons=true&theme=dark&include_all_commits=true&count_private=true"/>
-  <img height="180em" width="300em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=oguztoragay&langs_count=2&theme=dark"/>
+  <img src="https://github-readme-stats.vercel.app/api?username=oguztoragay&theme=vue-dark&show_icons=true&bg_color=00000000"/>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=oguztoragay&langs_count=2&theme=vue-dark&bg_color=00000000"/>
 </p>  
 </div> 
