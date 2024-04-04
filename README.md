@@ -36,9 +36,9 @@
 ---
 
 <a href="https://github.com/oguztoragay">
-  <img height=200 card_width=100 align="center" src="https://github-readme-stats.vercel.app/api?username=oguztoragay&theme=vue-dark&show_icons=true&bg_color=00000000"/>
+  <img height=200 align="center" src="https://github-readme-stats.vercel.app/api?username=oguztoragay&theme=vue-dark&show_icons=true&bg_color=00000000&rank_icon=github&card_width=200"/>
 </a>
 <a href="https://github.com/oguztoragay">
-  <img height=200 card_width=100 align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=oguztoragay&langs_count=2&theme=vue-dark&bg_color=00000000"/>
+  <img height=200 align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=oguztoragay&langs_count=2&theme=vue-dark&bg_color=00000000&card_width=200"/>
 </a>
 </div> 
