@@ -4,6 +4,8 @@
 - I’m looking forward to collaborating on Mathematical modeling, Heuristic, and Metaheuristic approaches to solve structural optimization problems specifically topology optimizations for lightweight frame structures for additive manufacturing.
 - Contact: otoragay at [ltu] dot [edu]
 
+![](https://komarev.com/ghpvc/?username=oguztoragay)
+
 ---
 
 <p align="left">
