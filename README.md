@@ -30,7 +30,7 @@
 &#8210 Algebraic Modeling Languages (AMLs) &#8680;&nbsp;
   <img align="center" alt="Pyomo" src="https://www.sandia.gov/app/uploads/sites/122/2021/08/pyomo.png" width="30" height="30"/>&nbsp;&#8210;
   <img align="center" alt="ORtools" src="https://developers.google.com/static/optimization/images/orLogo.png" width="30" height="30"/>&nbsp;&#8210;
-  <img align="center" alt="AMPL" src="https://cdn.icon-icons.com/icons2/2148/PNG/512/ampl_icon_132645.png" width="30" height="30"/>&nbsp;&#8210;
+  <img align="center" alt="AMPL" src="https://cdn.icon-icons.com/icons2/2148/PNG/512/ampl_icon_132645.png" width="30" height="30"/>&nbsp;
 </p>
 
 ---
