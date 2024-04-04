@@ -8,25 +8,24 @@
 
 <p align="left">
   • Programming:&nbsp;
-  <img align="center" alt="python" src="https://github.com/devicons/devicon/blob/master/icons/python/python-original.svg" width="30" height="30"/>&nbsp;&#8259;
-  <img align="center" alt="matlab" src="https://github.com/devicons/devicon/blob/master/icons/matlab/matlab-original.svg" width="30" height="30"/>&nbsp;&#8259;
+  <img align="center" alt="python" src="https://github.com/devicons/devicon/blob/master/icons/python/python-original.svg" width="30" height="30"/>&nbsp;&#8210;
+  <img align="center" alt="matlab" src="https://github.com/devicons/devicon/blob/master/icons/matlab/matlab-original.svg" width="30" height="30"/>&nbsp;&#8210;
   <img align="center" alt="cpp" src="https://github.com/devicons/devicon/blob/master/icons/cplusplus/cplusplus-original.svg" width="30" height="30"/>&nbsp;
 </p>
 
 <p align="left">
   • Libraries & Tools:&nbsp;
-  <img align="center" alt="NumPy" src="https://github.com/devicons/devicon/blob/master/icons/numpy/numpy-original.svg" width="30" height="30"/>&nbsp;&#8259;
-  <img align="center" alt="Pandas" src="https://github.com/devicons/devicon/blob/master/icons/pandas/pandas-original.svg" width="30" height="30"/>&nbsp;&#8259;
-  <img align="center" alt="NetworkX" src="https://github.com/devicons/devicon/blob/master/icons/networkx/networkx-plain.svg" width="30" height="30"/>&nbsp;&#8259;
-  <img align="center" alt="docker" src="https://github.com/devicons/devicon/blob/master/icons/docker/docker-original.svg" width="30" height="30"/>&nbsp;&#8259;
+  <img align="center" alt="NumPy" src="https://github.com/devicons/devicon/blob/master/icons/numpy/numpy-original.svg" width="30" height="30"/>&nbsp;&#8210;
+  <img align="center" alt="Pandas" src="https://github.com/devicons/devicon/blob/master/icons/pandas/pandas-original.svg" width="30" height="30"/>&nbsp;&#8210;
+  <img align="center" alt="NetworkX" src="https://github.com/devicons/devicon/blob/master/icons/networkx/networkx-plain.svg" width="30" height="30"/>&nbsp;&#8210;
+  <img align="center" alt="docker" src="https://github.com/devicons/devicon/blob/master/icons/docker/docker-original.svg" width="30" height="30"/>&nbsp;&#8210;
   <img align="center" alt="googleCloud" src="https://github.com/devicons/devicon/blob/master/icons/googlecloud/googlecloud-original.svg" width="30" height="30"/>&nbsp;  
 </p>
 
 ---
 
 <p align="center">
-<a href="https://github.com/oguztoragay">
-  <img height="150em"  width="300em" src="https://github-readme-stats.vercel.app/api?username=oguztoragay&show_icons=true&theme=dark&include_all_commits=true&count_private=true"/>
+  <img height="150em" width="300em" src="https://github-readme-stats.vercel.app/api?username=oguztoragay&show_icons=true&theme=dark&include_all_commits=true&count_private=true"/>
   <img height="150em" width="300em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=oguztoragay&layout=compact&langs_count=3&theme=dark"/>
 </p>  
 </div> 
