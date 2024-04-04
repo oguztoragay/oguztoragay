@@ -22,8 +22,6 @@
   <img align="center" alt="googleCloud" src="https://github.com/devicons/devicon/blob/master/icons/googlecloud/googlecloud-original.svg" width="30" height="30"/>&nbsp;  
 </p>
 
-
-
 ---
 
 <p align="center">
