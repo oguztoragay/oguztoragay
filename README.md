@@ -35,8 +35,10 @@
 
 ---
 
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=oguztoragay&theme=vue-dark&show_icons=true&bg_color=00000000"/>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=oguztoragay&langs_count=2&theme=vue-dark&bg_color=00000000"/>
-</p>  
+<a href="https://github.com/oguztoragay">
+  <img height=200 align="center" src="https://github-readme-stats.vercel.app/api?username=oguztoragay&theme=vue-dark&show_icons=true&bg_color=00000000"/>
+</a>
+<a href="https://github.com/oguztoragay">
+  <img height=200 align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=oguztoragay&langs_count=2&theme=vue-dark&bg_color=00000000"/>
+</a>
 </div> 
