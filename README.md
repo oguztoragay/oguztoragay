@@ -5,6 +5,9 @@
 - Contact: otoragay at [ltu] dot [edu]
 
 ![](https://komarev.com/ghpvc/?username=oguztoragay)
+[![Google Scholar](https://img.shields.io/badge/Google%20Scholar-4285F4?style=Flat&logo=google-scholar&logoColor=white)](https://scholar.google.com/citations?user=oloLqe4AAAAJ&hl=en)
+[![ResearchGate](https://img.shields.io/badge/ResearchGate-00CCBB?style=Flat&logo=ResearchGate&logoColor=white)](https://www.researchgate.net/profile/Oguz-Toragay/stats)
+[![Stack Exchange](https://img.shields.io/badge/StackExchange-%23ffffff.svg?style=Flat&logo=StackExchange)](https://or.stackexchange.com/users/39/oguz-toragay)
 
 ---
 
