@@ -45,6 +45,6 @@
   <img height=200 align="center" src="https://github-readme-stats.vercel.app/api?username=oguztoragay&theme=transparent&show_icons=true&rank_icon=github&card_width=200&include_all_commits=false"/>
 </a>
 <a href="https://github.com/oguztoragay">
-  <img height=200 align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=oguztoragay&langs_count=2&theme=transparent&card_width=200"/>
+  <img height=200 align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=oguztoragay&langs_count=3&theme=transparent&card_width=200"/>
 </a>
 </div> 
