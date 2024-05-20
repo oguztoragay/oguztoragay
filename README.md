@@ -15,10 +15,10 @@
 
 <p align="left">
 &#8210 Programming languages &#8680;&nbsp;
-  <img align="center" alt="python" src="https://github.com/devicons/devicon/blob/master/icons/python/python-original.svg" width="30" height="30"/>&nbsp;&#8210;
-  <img align="center" alt="matlab" src="https://github.com/devicons/devicon/blob/master/icons/matlab/matlab-original.svg" width="30" height="30"/>&nbsp;&#8210;
-  <img align="center" alt="matlab" src="https://github.com/devicons/devicon/blob/master/icons/r/r-original.svg" width="30" height="30"/>&nbsp;&#8210;
-  <img align="center" alt="cpp" src="https://github.com/devicons/devicon/blob/master/icons/cplusplus/cplusplus-original.svg" width="30" height="30"/>&nbsp;
+  <img align="center" alt="python" src="https://github.com/devicons/devicon/blob/master/icons/python/python-original.svg" title="Python" width="30" height="30"/>&nbsp;&#8210;
+  <img align="center" alt="matlab" src="https://github.com/devicons/devicon/blob/master/icons/matlab/matlab-original.svg" title="Matlab" width="30" height="30"/>&nbsp;&#8210;
+  <img align="center" alt="R" src="https://github.com/devicons/devicon/blob/master/icons/r/r-original.svg" title="R" width="30" height="30"/>&nbsp;&#8210;
+  <img align="center" alt="cpp" src="https://github.com/devicons/devicon/blob/master/icons/cplusplus/cplusplus-original.svg" title="C++"width="30" height="30"/>&nbsp;
 </p>
 
 <p align="left">
