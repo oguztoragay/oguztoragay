@@ -50,5 +50,5 @@
   <img height=200 align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=oguztoragay&theme=transparent&card_width=200"/>
 </a>
 
-[![Oguz's github streak](https://github-readme-streak-stats.herokuapp.com/?user=oguztoragay&theme=blue-green)](https://github.com/DenverCoder1/github-readme-streak-stats)
+[![Oguz's github streak](https://github-readme-streak-stats.herokuapp.com/?user=oguztoragay&theme=blue-green&card_width=790&card_height=200)]()
 </div> 
