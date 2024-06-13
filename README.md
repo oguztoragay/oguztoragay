@@ -49,8 +49,8 @@
   <img height=200 align="center" src="https://github-readme-stats.vercel.app/api?username=oguztoragay&theme=transparent&show_icons=true&rank_icon=github&card_width=200&include_all_commits=false"/>
 </a>
 <a href="https://github.com/oguztoragay">
-  <img height=200 align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=oguztoragay&theme=transparent&card_width=200&langs_count=3"/>
+  <img height=200 align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=oguztoragay&theme=transparent&langs_count=3&card_width=200"/>
 </a>
 
-[![Oguz's github streak](https://github-readme-streak-stats.herokuapp.com/?user=oguztoragay&theme=blue-green&card_width=790&card_height=200)]()
+[![Oguz's github streak](https://github-readme-streak-stats.herokuapp.com/?user=oguztoragay&theme=blue-green&card_width=730&card_height=200)]()
 </div> 
