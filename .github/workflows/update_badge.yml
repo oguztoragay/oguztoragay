@@ -1,0 +1,34 @@
+name: Update Google Scholar Badge
+
+on:
+  schedule:
+    - cron: '0 0 * * 1'  # Every Monday
+  workflow_dispatch: # Manual trigger option
+
+jobs:
+  update-scholar-badge:
+    runs-on: ubuntu-latest
+
+    steps:
+      - name: Checkout repository
+        uses: actions/checkout@v2
+
+      - name: Set up Python
+        uses: actions/setup-python@v2
+        with:
+          python-version: '3.x'
+
+      - name: Install dependencies
+        run: |
+          pip install scholarly
+
+      - name: Run citation count script
+        run: python update_badge.py
+
+      - name: Commit changes
+        run: |
+          git config --local user.email "github-actions[bot]@users.noreply.github.com"
+          git config --local user.name "GitHub Actions Bot"
+          git add README.md
+          git commit -m "Update Google Scholar citation badge"
+          git push
