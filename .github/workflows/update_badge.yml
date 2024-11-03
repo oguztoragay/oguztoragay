@@ -2,7 +2,7 @@ name: Update Google Scholar Badge
 
 on:
   schedule:
-    - cron: '0 0 * * 1'  # Every Monday
+    - cron: '0 */3 * * *'  # Every 3 hours
   workflow_dispatch: # Manual trigger option
 
 jobs:
