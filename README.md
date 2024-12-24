@@ -54,5 +54,4 @@
   <img height=200 align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=oguztoragay&theme=transparent&langs_count=3&card_width=200"/>
 </a>
 
-## [![Oguz's github streak](https://github-readme-streak-stats.herokuapp.com/?user=oguztoragay&theme=transparent&card_width=725&card_height=200)]()
 </div> 
