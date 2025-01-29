@@ -49,7 +49,7 @@
 &#8210 Machine Learning &#8680;&nbsp;
   <img align="center" alt="Scikit-learn" src="https://github.com/devicons/devicon/blob/master/icons/scikitlearn/scikitlearn-original.svg" title="Scikit-learn" width="30" height="30"/>&nbsp;&#8210;
   <img align="center" alt="Tensorflow" src="https://github.com/devicons/devicon/blob/master/icons/tensorflow/tensorflow-original.svg" title="Tensorflow" width="30" height="30"/>&nbsp;&#8210;
-  <img align="center" alt="AMPL" src="https://cdn.icon-icons.com/icons2/2148/PNG/512/ampl_icon_132645.png" title="AMPL" width="30" height="30"/>&nbsp;
+  <img align="center" alt="PyTorch" src="https://github.com/devicons/devicon/blob/master/icons/pytorch/pytorch-original.svg" title="PyTorch" width="30" height="30"/>&nbsp;
 </p>
 ---
 
