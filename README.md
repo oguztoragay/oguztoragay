@@ -1,4 +1,4 @@
-- Hi, I’m O&#287;uz Tora&#287;ay, an <a href="https://www.ltu.edu/engineering/mechanical-faculty-profile?_cid=1264">Assistant Professor</a> in Industrial Engineering at <a href="https://www.ltu.edu/">LTU</a>.
+- Hi, I’m O&#287;uz Tora&#287;ay, an <a href="https://www.ltu.edu/engineering/mechanical-faculty-profile?_cid=1264">Assistant Professor</a> of Industrial Engineering at <a href="https://www.ltu.edu/">LTU</a>.
 - I’m interested in application of optimization (almost in any type) to solve engineering problems. 
 - I’m currently using Pyomo (Python Optimization Modeling Object) for my projects
 - I’m looking forward to collaborating on Mathematical modeling, Heuristic, and Metaheuristic approaches to solve real-world optimization problems specifically topology optimizations for lightweight frame structures for additive manufacturing, scheduling robot assisted manufacturing and transportation, logistics problems using drones.
