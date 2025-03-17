@@ -13,9 +13,6 @@
 [![LinkedIn](https://img.shields.io/badge/linkedin-%230077B5.svg?style=Flat&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/oguztoragay/)
 [![ORCiD](https://img.shields.io/badge/ORCiD-%23ffffff.svg?style=Flat&logo=ORCID&logoColor=green)](https://orcid.org/0000-0003-0690-2198)
 
-
-
-
 <p align="left">
 &#8210 Programming languages &#8680;&nbsp;
   <img align="center" alt="python" src="https://github.com/devicons/devicon/blob/master/icons/python/python-original.svg" title="Python" width="30" height="30"/>&nbsp;&#8210;
@@ -50,7 +47,6 @@
   <img align="center" alt="Tensorflow" src="https://github.com/devicons/devicon/blob/master/icons/tensorflow/tensorflow-original.svg" title="Tensorflow" width="30" height="30"/>&nbsp;&#8210;
   <img align="center" alt="PyTorch" src="https://github.com/devicons/devicon/blob/master/icons/pytorch/pytorch-original.svg" title="PyTorch" width="30" height="30"/>&nbsp;
 </p>
----
 
 <a href="https://github.com/oguztoragay">
   <img height=200 align="center" src="https://github-readme-stats.vercel.app/api?username=oguztoragay&theme=transparent&show_icons=true&rank_icon=github&card_width=200&include_all_commits=false"/>
