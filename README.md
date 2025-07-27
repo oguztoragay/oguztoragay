@@ -1,8 +1,8 @@
-- Hi, I’m O&#287;uz Tora&#287;ay, an <a href="https://www.ltu.edu/engineering/mechanical-faculty-profile?_cid=1264">Assistant Professor</a> of Industrial Engineering at <a href="https://www.ltu.edu/">LTU</a>.
-- I’m interested in application of optimization (almost in any type) to solve engineering problems. 
-- I’m currently using Pyomo (Python Optimization Modeling Object) for my projects
-- I’m looking forward to collaborating on Mathematical modeling, Heuristic, and Metaheuristic approaches to solve real-world optimization problems specifically topology optimizations for lightweight frame structures for additive manufacturing, scheduling robot assisted manufacturing and transportation, logistics problems using drones.
-- Contact: otoragay at [ltu] dot [edu]
+- Hi, I’m O&#287;uz Tora&#287;ay.
+- I’m interested in application of Operations Research (OR) to solve engineering problems. 
+- I’m currently using Pyomo (Python Optimization Modeling Object) for my projects.
+- I’m looking forward to collaborating on Mathematical modeling, Heuristic, and Metaheuristic approaches to solve real-world optimization problems specifically planning and scheduling robot assisted manufacturing and transportation, logistics problems using drones.
+- Contact: ozt0008 at [auburn] dot [edu]
 
 <a href="https://or.stackexchange.com/users/39/oguz-toragay"><img src="https://or.stackexchange.com/users/flair/39.png?theme=dark" width="140" height="40" alt="profile for Oguz Toragay at Operations Research Stack Exchange, Q&amp;A for operations research and analytics professionals, educators, and students" title="profile for Oguz Toragay at Operations Research Stack Exchange, Q&amp;A for operations research and analytics professionals, educators, and students"></a> <a href="https://app.maven.co/join/WSyl3vWR/consult" class="anchor-white-background"><img src="https://app.maven.co/files/image/maven_consult.png" alt="Consult with me on Maven" title="Consult with me on Maven" width="100" height="20" /></a><a href="https://app.maven.co/join/WSyl3vWR" class="anchor-white-background"><img src="https://app.maven.co/files/image/maven_connect.png" alt="Connect with me on Maven" title="Connect with me on Maven" width="100" height="20" /></a>
 
