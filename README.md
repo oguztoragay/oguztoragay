@@ -1,7 +1,7 @@
 - Hi, I’m O&#287;uz Tora&#287;ay.
-- I’m interested in application of Operations Research (OR) to solve engineering problems. 
-- I’m currently using Pyomo (Python Optimization Modeling Object) for my projects.
-- I’m looking forward to collaborating on Mathematical modeling, Heuristic, and Metaheuristic approaches to solve real-world optimization problems specifically planning and scheduling robot assisted manufacturing and transportation, logistics problems using drones.
+- I’m interested in applied Operations Research (OR) and it's applications to solve engineering problems.
+- I mainly use Pyomo (Python Optimization Modeling Object) in my OR related projects.
+- Looking forward to collaborating on Mathematical modeling, Heuristic, and Metaheuristic approaches to solve real-world optimization problems specifically planning and scheduling robot assisted manufacturing, and transportation, logistics problems using drones.
 - Contact: ozt0008 at [auburn] dot [edu]
 
 <a href="https://or.stackexchange.com/users/39/oguz-toragay"><img src="https://or.stackexchange.com/users/flair/39.png?theme=dark" width="140" height="40" alt="profile for Oguz Toragay at Operations Research Stack Exchange, Q&amp;A for operations research and analytics professionals, educators, and students" title="profile for Oguz Toragay at Operations Research Stack Exchange, Q&amp;A for operations research and analytics professionals, educators, and students"></a> 
