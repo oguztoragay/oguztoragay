@@ -48,11 +48,5 @@
   <img align="center" alt="PyTorch" src="https://github.com/devicons/devicon/blob/master/icons/pytorch/pytorch-original.svg" title="PyTorch" width="30" height="30"/>&nbsp;
 </p>
 
-<a href="https://github.com/oguztoragay">
-  <img height=200 align="center" src="https://github-readme-stats.vercel.app/api?username=oguztoragay&theme=transparent&show_icons=true&rank_icon=github&card_width=200&include_all_commits=false"/>
-</a>
-<a href="https://github.com/oguztoragay">
-  <img height=200 align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=oguztoragay&theme=transparent&langs_count=3&card_width=200"/>
-</a>
 
 </div> 
