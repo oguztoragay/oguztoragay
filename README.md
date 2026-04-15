@@ -26,7 +26,7 @@
   <img align="center" alt="NumPy" src="https://github.com/devicons/devicon/blob/master/icons/numpy/numpy-original.svg" title="NumPy" width="30" height="30"/>&nbsp;&#8210;
   <img align="center" alt="Pandas" src="https://github.com/devicons/devicon/blob/master/icons/pandas/pandas-original.svg" title="Pandas" width="30" height="30"/>&nbsp;&#8210;
   <img align="center" alt="NetworkX" src="https://github.com/devicons/devicon/blob/master/icons/networkx/networkx-plain.svg" title="NetworkX" width="30" height="30"/>&nbsp;&#8210;
-  <img align="center" alt="PyCharm" src="https://upload.wikimedia.org/wikipedia/commons/thumb/1/1d/PyCharm_Icon.svg/1024px-PyCharm_Icon.svg.png" title="PyCharm" width="30" height="30"/>&nbsp;&#8210;
+  <img align="center" alt="PyCharm" src="https://github.com/devicons/devicon/blob/master/icons/pycharm/pycharm-original.svg" title="PyCharm" width="30" height="30"/>&nbsp;&#8210;
   <img align="center" alt="Gurobi" src="https://avatars.githubusercontent.com/u/15114496?s=280&v=4" title="Gurobi" width="30" height="30"/>&nbsp;&#8210;
   <img align="center" alt="COIN-OR" src="https://upload.wikimedia.org/wikipedia/en/a/a7/COIN_OR_LOGO.png" title="COIN-OR" width="30" height="30"/>&nbsp;&#8210;
   <img align="center" alt="docker" src="https://github.com/devicons/devicon/blob/master/icons/docker/docker-original.svg" title="docker" width="30" height="30"/>&nbsp;&#8210;
