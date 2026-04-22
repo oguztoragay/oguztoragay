@@ -22,30 +22,20 @@
 </p>
 
 <p align="left">
-  &#8210 Libraries & Tools &#8680;&nbsp;
+&#8210 Libraries & Tools &#8680;&nbsp;
   <img align="center" alt="NumPy" src="https://github.com/devicons/devicon/blob/master/icons/numpy/numpy-original.svg" title="NumPy" width="30" height="30"/>&nbsp;&#8210;
   <img align="center" alt="Pandas" src="https://github.com/devicons/devicon/blob/master/icons/pandas/pandas-original.svg" title="Pandas" width="30" height="30"/>&nbsp;&#8210;
   <img align="center" alt="NetworkX" src="https://github.com/devicons/devicon/blob/master/icons/networkx/networkx-plain.svg" title="NetworkX" width="30" height="30"/>&nbsp;&#8210;
   <img align="center" alt="PyCharm" src="https://github.com/devicons/devicon/blob/master/icons/pycharm/pycharm-original.svg" title="PyCharm" width="30" height="30"/>&nbsp;&#8210;
   <img align="center" alt="docker" src="https://github.com/devicons/devicon/blob/master/icons/docker/docker-original.svg" title="docker" width="30" height="30"/>&nbsp;&#8210;
-  <img align="center" alt="googleCloud" src="https://github.com/devicons/devicon/blob/master/icons/googlecloud/googlecloud-original.svg" title="googleCloud" width="30" height="30"/>&nbsp;&#8210;
+  <img align="center" alt="googleCloud" src="https://github.com/devicons/devicon/blob/master/icons/googlecloud/googlecloud-original.svg" title="googleCloud" width="30" height="30"/>&nbsp;
 </p>
 
-<p aligh="left">
-&#8210 Algebraic Modeling Languages (AMLs) &#8680;&nbsp;
-  <img align="center" alt="Pyomo" src="https://www.sandia.gov/app/uploads/sites/122/2021/08/pyomo.png" title="Pyomo" width="30" height="30"/>&nbsp;&#8210;
-  <img align="center" alt="ORtools" src="https://developers.google.com/static/optimization/images/orLogo.png" title="ORtools" width="30" height="30"/>&nbsp;&#8210;
-  <img align="center" alt="AMPL" src="https://ampl.com/wp-content/uploads/AMPL-site-logo-inline.svg" title="AMPL" width="90" height="60"/>&nbsp;
-</p>
+<p align="left">&#8210; Algebraic Modeling Languages (AMLs) &#8680;&nbsp; <img src="https://www.sandia.gov/app/uploads/sites/122/2021/08/pyomo.png" height="30">&nbsp;&#8210;&nbsp; <img src="https://developers.google.com/static/optimization/images/orLogo.png" height="30">&nbsp;&#8210;&nbsp; <img src="https://ampl.com/wp-content/uploads/AMPL-site-logo-inline.svg" height="30"></p>
+
+<p align="left">&#8210; Solvers &#8680;&nbsp; <img src="https://avatars.githubusercontent.com/u/15114496?s=280&v=4" height="30" style="vertical-align:middle">&nbsp;&#8210;&nbsp; <img src="https://upload.wikimedia.org/wikipedia/en/a/a7/COIN_OR_LOGO.png" height="30" style="vertical-align:middle">&nbsp;&#8210;&nbsp; <img src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSQIGiehc6O7UzM9gGwqN5V_wP3aZo86xcsZ7dmEt17RQ&s" height="25" style="vertical-align:middle"></p>
 
 <p align="left">
-  &#8210 Solvers &#8680;&nbsp;
-  <img align="center" alt="Gurobi" src="https://avatars.githubusercontent.com/u/15114496?s=280&v=4" title="Gurobi" width="30" height="30"/>&nbsp;&#8210;
-  <img align="center" alt="COIN-OR" src="https://upload.wikimedia.org/wikipedia/en/a/a7/COIN_OR_LOGO.png" title="COIN-OR" width="30" height="30"/>&nbsp;&#8210;
-  <img align="center" alt="Hexaly" src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSQIGiehc6O7UzM9gGwqN5V_wP3aZo86xcsZ7dmEt17RQ&s" title="Hexaly" width="70" height="25"/>&nbsp;
-</p>
-
-<p aligh="left">
 &#8210 Machine Learning &#8680;&nbsp;
   <img align="center" alt="Scikit-learn" src="https://github.com/devicons/devicon/blob/master/icons/scikitlearn/scikitlearn-original.svg" title="Scikit-learn" width="30" height="30"/>&nbsp;&#8210;
   <img align="center" alt="Tensorflow" src="https://github.com/devicons/devicon/blob/master/icons/tensorflow/tensorflow-original.svg" title="Tensorflow" width="30" height="30"/>&nbsp;&#8210;
