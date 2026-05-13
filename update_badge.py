@@ -2,6 +2,11 @@ import re
 from scholarly import scholarly
 
 USER_ID = "oloLqe4AAAAJ"  # Replace with your Google Scholar user ID
+CITATION_BADGE_PATTERN = (
+    r"(https://img\.shields\.io/badge/Google%20Scholar-)"
+    r"(?:\d+|<!--\s*CITATION_COUNT\s*-->)"
+    r"(-[0-9A-Fa-f]{6})"
+)
 
 # Fetch profile and fill publications
 profile = scholarly.search_author_id(USER_ID)
@@ -55,7 +60,7 @@ with open("README.md", "r", encoding="utf-8") as readme_file:
 
 # Replace the citation count placeholder or existing count in the badge URL
 readme_content, badge_subs = re.subn(
-    r"(https://img\.shields\.io/badge/Google%20Scholar-)(?:\d+|<!--\s*CITATION_COUNT\s*-->)(-4285F4)",
+    CITATION_BADGE_PATTERN,
     rf"\1{citation_count}\2",
     readme_content,
 )
