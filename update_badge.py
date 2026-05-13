@@ -3,12 +3,11 @@ from scholarly import scholarly
 
 USER_ID = "oloLqe4AAAAJ"  # Replace with your Google Scholar user ID
 BADGE_PREFIX_PATTERN = r"https://img\.shields\.io/badge/Google%20Scholar-"
-CITATION_TOKEN_PATTERN = r"(?:\d+|<!--\s*CITATION_COUNT\s*-->)"
-BADGE_COLOR_PATTERN = r"-[0-9A-Fa-f]{3}(?:[0-9A-Fa-f]{3})?"
+BADGE_SUFFIX_PATTERN = r"-[^)\s]+"
 CITATION_BADGE_PATTERN = (
     rf"(?P<prefix>{BADGE_PREFIX_PATTERN})"
-    rf"{CITATION_TOKEN_PATTERN}"
-    rf"(?P<suffix>{BADGE_COLOR_PATTERN})"
+    rf"(?P<count>\d+)"
+    rf"(?P<suffix>{BADGE_SUFFIX_PATTERN})"
 )
 
 # Fetch profile and fill publications
