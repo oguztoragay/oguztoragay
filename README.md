@@ -7,7 +7,7 @@
 <a href="https://or.stackexchange.com/users/39/oguz-toragay"><img src="https://or.stackexchange.com/users/flair/39.png?theme=dark" width="140" height="40" alt="profile for Oguz Toragay at Operations Research Stack Exchange, Q&amp;A for operations research and analytics professionals, educators, and students" title="profile for Oguz Toragay at Operations Research Stack Exchange, Q&amp;A for operations research and analytics professionals, educators, and students"></a> 
 
 ![](https://komarev.com/ghpvc/?username=oguztoragay)
-[![Google Scholar](https://img.shields.io/badge/Google%20Scholar-95-4285F4?style=flat&logo=google-scholar&logoColor=white)](https://scholar.google.com/citations?user=oloLqe4AAAAJ&hl=en)
+[![Google Scholar](https://img.shields.io/badge/Google%20Scholar-<!-- CITATION_COUNT -->-4285F4?style=flat&logo=google-scholar&logoColor=white)](https://scholar.google.com/citations?user=oloLqe4AAAAJ&hl=en)
 [![ResearchGate](https://img.shields.io/badge/ResearchGate-00CCBB?style=Flat&logo=ResearchGate&logoColor=white)](https://www.researchgate.net/profile/Oguz-Toragay/stats)
 [![Stack Exchange](https://img.shields.io/badge/StackExchange-%23ffffff.svg?style=Flat&logo=StackExchange&logoColor=blue)](https://or.stackexchange.com/users/39/oguz-toragay)
 [![LinkedIn](https://img.shields.io/badge/linkedin-%230077B5.svg?style=Flat&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/oguztoragay/)
@@ -42,5 +42,10 @@
   <img align="center" alt="PyTorch" src="https://github.com/devicons/devicon/blob/master/icons/pytorch/pytorch-original.svg" title="PyTorch" width="30" height="30"/>&nbsp;
 </p>
 
+
+## 📚 Recent Publications
+
+<!-- PUBLICATIONS_START -->
+<!-- PUBLICATIONS_END -->
 
 </div> 
