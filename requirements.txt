@@ -1,1 +1,2 @@
 scholarly
+httpx<0.28.0
