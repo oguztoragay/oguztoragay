@@ -53,8 +53,14 @@ pub_block = "\n".join(table_lines) + footer
 with open("README.md", "r", encoding="utf-8") as readme_file:
     readme_content = readme_file.read()
 
-# Replace the citation count placeholder
-readme_content = readme_content.replace("<!-- CITATION_COUNT -->", str(citation_count))
+# Replace the citation count placeholder or existing count in the badge URL
+readme_content, badge_subs = re.subn(
+    r"(https://img\.shields\.io/badge/Google%20Scholar-)(.*?)(-4285F4)",
+    rf"\1{citation_count}\3",
+    readme_content,
+)
+if badge_subs == 0:
+    readme_content = readme_content.replace("<!-- CITATION_COUNT -->", str(citation_count))
 
 # Replace the publications block between markers
 readme_content = re.sub(
