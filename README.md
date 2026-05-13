@@ -1,10 +1,9 @@
-- Hi, I'm Oğuz Torağay.
-- I'm interested in applied Operations Research (OR) and it's applications to solve engineering problems.
-- I mainly use Pyomo (Python Optimization Modeling Object) in my OR related projects.
-- Looking forward to collaborating on Mathematical modeling, Heuristic, and Metaheuristic approaches to solve real-world optimization problems specifically planning and scheduling robot assisted manufacturing systems.
-- Contact: ozt0008 at [auburn] dot [edu]
+<div align="center">
 
-<a href="https://or.stackexchange.com/users/39/oguz-toragay"><img src="https://or.stackexchange.com/users/flair/39.png?theme=dark" width="140" height="40" alt="profile for Oguz Toragay at Operations Research Stack Exchange, Q&amp;A for operations research and analytics professionals, educators, and students" title="profile for Oguz Toragay at Operations Research Stack Exchange, Q&amp;A for operations research and analytics professionals, educators, and students"></a>
+# Oğuz Torağay
+
+**Assistant Professor of Engineering Management**
+Penn State Great Valley · Malvern, PA
 
 ![](https://komarev.com/ghpvc/?username=oguztoragay)
 [![Google Scholar](https://img.shields.io/badge/Google%20Scholar-95-red?style=flat&logo=google-scholar&logoColor=white)](https://scholar.google.com/citations?user=oloLqe4AAAJ&hl=en)
@@ -12,6 +11,32 @@
 [![Stack Exchange](https://img.shields.io/badge/StackExchange-%23ffffff.svg?style=Flat&logo=StackExchange&logoColor=blue)](https://or.stackexchange.com/users/39/oguz-toragay)
 [![LinkedIn](https://img.shields.io/badge/linkedin-%230077B5.svg?style=Flat&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/oguztoragay/)
 [![ORCiD](https://img.shields.io/badge/ORCiD-%23ffffff.svg?style=Flat&logo=ORCID&logoColor=green)](https://orcid.org/0000-0003-0690-2198)
+[![Website](https://img.shields.io/badge/Website-oguztoragay.github.io-0a66c2?style=flat&logo=github)](https://oguztoragay.github.io/)
+
+</div>
+
+---
+
+## About Me
+
+I am an Assistant Professor of Engineering Management at **Penn State Great Valley**. I hold a Ph.D. in Industrial and Systems Engineering from **Auburn University**, where I was recognized as the **Outstanding Ph.D. Student of 2022** by the ISE faculty.
+
+My work sits at the intersection of **applied Operations Research** and **engineering systems**, with a focus on building mathematical models and intelligent algorithms that solve complex, real-world planning and scheduling problems.
+
+---
+
+## Research Interests
+
+- **Mathematical Optimization** — Linear, Nonlinear, MILP, MINLP
+- **Scheduling** — Robot-assisted manufacturing systems, Job shop scheduling
+- **Metaheuristics & Heuristics** — Approximate solution methods (applications in queueing theory)
+- **Drone Routing & Scheduling** — Highway monitoring, emergency responses, medical supply chain
+- **Machine Learning for Optimization** — Predicting solver computation times
+
+---
+
+## Tools & Technologies
+
 
 <p align="left">
 &#8210 Programming languages &#8680;&nbsp;
