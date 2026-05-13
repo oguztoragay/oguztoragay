@@ -2,10 +2,13 @@ import re
 from scholarly import scholarly
 
 USER_ID = "oloLqe4AAAAJ"  # Replace with your Google Scholar user ID
+BADGE_PREFIX_PATTERN = r"https://img\.shields\.io/badge/Google%20Scholar-"
+CITATION_TOKEN_PATTERN = r"(?:\d+|<!--\s*CITATION_COUNT\s*-->)"
+BADGE_COLOR_PATTERN = r"-[0-9A-Fa-f]{3}(?:[0-9A-Fa-f]{3})?"
 CITATION_BADGE_PATTERN = (
-    r"(https://img\.shields\.io/badge/Google%20Scholar-)"
-    r"(?:\d+|<!--\s*CITATION_COUNT\s*-->)(?=-[0-9A-Fa-f]{3}(?:[0-9A-Fa-f]{3})?)"
-    r"(-[0-9A-Fa-f]{3}(?:[0-9A-Fa-f]{3})?)"
+    rf"(?P<prefix>{BADGE_PREFIX_PATTERN})"
+    rf"{CITATION_TOKEN_PATTERN}"
+    rf"(?P<suffix>{BADGE_COLOR_PATTERN})"
 )
 
 # Fetch profile and fill publications
@@ -61,7 +64,7 @@ with open("README.md", "r", encoding="utf-8") as readme_file:
 # Replace the citation count placeholder or existing count in the badge URL
 readme_content, badge_subs = re.subn(
     CITATION_BADGE_PATTERN,
-    rf"\1{citation_count}\2",
+    rf"\g<prefix>{citation_count}\g<suffix>",
     readme_content,
 )
 if badge_subs == 0:
