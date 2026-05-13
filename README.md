@@ -63,7 +63,7 @@
 | 13 | [Performance evaluation of faculty departments by a Delphi method based on 2-Tuple fuzzy Linguistic representation model and TOPSIS](https://scholar.google.com/citations?view_op=view_citation&hl=en&user=oloLqe4AAAAJ&citation_for_view=oloLqe4AAAAJ:_FxGoFyzp5QC) | 2015 | 6 |
 | 14 | [Academic Performance Evaluation of the Departments in Engineering Faculty of a University by Utilizing TOPSIS and Fuzzy Delphi](https://scholar.google.com/citations?view_op=view_citation&hl=en&user=oloLqe4AAAAJ&citation_for_view=oloLqe4AAAAJ:d1gkVwhDpl0C) | 2014 | 0 |
 | 15 | [Bir mühendislik fakültesi bölümlerinin akademik performans değerlendirmesi](https://scholar.google.com/citations?view_op=view_citation&hl=en&user=oloLqe4AAAAJ&citation_for_view=oloLqe4AAAAJ:aqlVkmm33-oC) | 2011 | 0 |
-*Auto-updated every 3 hours via GitHub Actions · [View full list on Google Scholar](https://scholar.google.com/citations?user=oloLqe4AAAAJ&hl=en)*
+*Auto-updated every 12 hours via GitHub Actions · [View full list on Google Scholar](https://scholar.google.com/citations?user=oloLqe4AAAAJ&hl=en)*
 <!-- PUBLICATIONS_END -->
 
 </div> 
