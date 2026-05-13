@@ -55,11 +55,12 @@ with open("README.md", "r", encoding="utf-8") as readme_file:
 
 # Replace the citation count placeholder or existing count in the badge URL
 readme_content, badge_subs = re.subn(
-    r"(https://img\.shields\.io/badge/Google%20Scholar-)(.*?)(-4285F4)",
-    rf"\1{citation_count}\3",
+    r"(https://img\.shields\.io/badge/Google%20Scholar-)(?:\d+|<!--\s*CITATION_COUNT\s*-->)(-4285F4)",
+    rf"\1{citation_count}\2",
     readme_content,
 )
 if badge_subs == 0:
+    print("Warning: citation badge URL not found; attempting placeholder replacement.")
     readme_content = readme_content.replace("<!-- CITATION_COUNT -->", str(citation_count))
 
 # Replace the publications block between markers
