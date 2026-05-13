@@ -6,7 +6,7 @@
 Penn State Great Valley · Malvern, PA
 
 [![Website](https://img.shields.io/badge/Website-oguztoragay.github.io-0a66c2?style=flat&logo=github)](https://oguztoragay.github.io/)
-[![Google Scholar](https://img.shields.io/badge/Google%20Scholar-0-4285F4?style=flat&logo=googlescholar&logoColor=white)](https://scholar.google.com/citations?user=oloLqe4AAAAJ&hl=en)
+[![Google Scholar](https://img.shields.io/badge/Google%20Scholar-95-4285F4?style=flat&logo=googlescholar&logoColor=white)](https://scholar.google.com/citations?user=oloLqe4AAAAJ&hl=en)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-oguztoragay-0a66c2?style=flat&logo=linkedin)](https://www.linkedin.com/in/oguztoragay/)
 
 </div>
