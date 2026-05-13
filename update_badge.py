@@ -4,7 +4,7 @@ from typing import Any, Callable, Iterable
 
 from scholarly import scholarly
 
-USER_ID = "oloLqe4AAAAJ"  # Replace with your Google Scholar user ID
+USER_ID = "oloLqe4AAAAJ"
 BADGE_PREFIX_PATTERN = r"https://img\.shields\.io/badge/Google%20Scholar-"
 BADGE_SUFFIX_PATTERN = (
     r"-(?:[0-9A-Fa-f]{3}(?:[0-9A-Fa-f]{3})?|[A-Za-z]+)(?:\?[^)\s]+)?"
@@ -16,7 +16,6 @@ CITATION_BADGE_PATTERN = (
 )
 PUBLICATIONS_PATTERN = r"<!-- PUBLICATIONS_START -->.*?<!-- PUBLICATIONS_END -->"
 
-MAX_RETRIES = 3
 RETRY_DELAYS = (2, 5, 10)
 
 
@@ -99,7 +98,7 @@ def build_publications_block(rows: list[tuple[str, Any, int, str]], user_id: str
         table_lines.append(f"| {i} | [{safe_title}]({url}) | {safe_year} | {cited_by} |")
 
     footer = (
-        "\n*Auto-updated every 3 hours via GitHub Actions · "
+        "\n*Auto-updated every 12 hours via GitHub Actions · "
         f"[View full list on Google Scholar](https://scholar.google.com/citations?user={user_id}&hl=en)*\n"
     )
     return "\n".join(table_lines) + footer
