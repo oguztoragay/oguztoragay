@@ -33,7 +33,8 @@
 
 <p align="left">&#8210; Algebraic Modeling Languages (AMLs) &#8680;&nbsp;
   <img align="center" alt="Pyomo" src="https://www.sandia.gov/app/uploads/sites/122/2021/08/pyomo.png" title="Pyomo" height="30">&nbsp;&#8210;&nbsp;
-  <img align="center" alt="AMPL" src="https://ampl.com/wp-content/uploads/AMPL-site-logo-inline.svg" title="AMPL" height="30">&nbsp;
+  <img align="center" alt="AMPL" src="https://ampl.com/wp-content/uploads/AMPL-site-logo-inline.svg" title="AMPL" height="30">&nbsp;&#8210;
+  <img align="center" alt="GAMS" src="https://www.gams.com/img/gams_logo.svg" title="GAMS" height="30">&nbsp;
 </p>
 
 <p align="left">&#8210; Solvers &#8680;&nbsp;
