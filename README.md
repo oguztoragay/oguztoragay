@@ -7,7 +7,7 @@
 <a href="https://or.stackexchange.com/users/39/oguz-toragay"><img src="https://or.stackexchange.com/users/flair/39.png?theme=dark" width="140" height="40" alt="profile for Oguz Toragay at Operations Research Stack Exchange, Q&amp;A for operations research and analytics professionals, educators, and students" title="profile for Oguz Toragay at Operations Research Stack Exchange, Q&amp;A for operations research and analytics professionals, educators, and students"></a>
 
 ![](https://komarev.com/ghpvc/?username=oguztoragay)
-[![Google Scholar](https://img.shields.io/badge/Google%20Scholar-<!-- CITATION_COUNT -->-4285F4?style=flat&logo=google-scholar&logoColor=white)](https://scholar.google.com/citations?user=oloLqe4AAAJ&hl=en)
+[![Google Scholar](https://img.shields.io/badge/Google%20Scholar-95-4285F4?style=flat&logo=google-scholar&logoColor=white)](https://scholar.google.com/citations?user=oloLqe4AAAJ&hl=en)
 [![ResearchGate](https://img.shields.io/badge/ResearchGate-00CCBB?style=Flat&logo=ResearchGate&logoColor=white)](https://www.researchgate.net/profile/Oguz-Toragay/stats)
 [![Stack Exchange](https://img.shields.io/badge/StackExchange-%23ffffff.svg?style=Flat&logo=StackExchange&logoColor=blue)](https://or.stackexchange.com/users/39/oguz-toragay)
 [![LinkedIn](https://img.shields.io/badge/linkedin-%230077B5.svg?style=Flat&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/oguztoragay/)
@@ -46,6 +46,24 @@
 ## 📚 Recent Publications
 
 <!-- PUBLICATIONS_START -->
+| # | Title | Year | Citations |
+|---|-------|------|-----------|
+| 1 | [Unraveling COVID-19’s Impact on Raw Material Supply Chains and Production in the Turkish Pipe Industry: A Critical ANOVA and Advanced MCDM Evaluation](https://scholar.google.com/citations?view_op=view_citation&hl=en&user=oloLqe4AAAAJ&citation_for_view=oloLqe4AAAAJ:e5wmG9Sq2KIC) | 2026 | 1 |
+| 2 | [The green marine waste collector routing optimization with puma selection-based neighborhood search algorithm](https://scholar.google.com/citations?view_op=view_citation&hl=en&user=oloLqe4AAAAJ&citation_for_view=oloLqe4AAAAJ:dhFuZR0502QC) | 2025 | 9 |
+| 3 | [A mixed-integer programming framework for drone routing and scheduling with flexible multiple visits in highway traffic monitoring](https://scholar.google.com/citations?view_op=view_citation&hl=en&user=oloLqe4AAAAJ&citation_for_view=oloLqe4AAAAJ:hFOr9nPyWt4C) | 2025 | 3 |
+| 4 | [A scenario-based approach for a green aggregate production planning in a multi-site manufacturing system with workforce transferring](https://scholar.google.com/citations?view_op=view_citation&hl=en&user=oloLqe4AAAAJ&citation_for_view=oloLqe4AAAAJ:mB3voiENLucC) | 2025 | 1 |
+| 5 | [On optimization of lightweight planar frame structures: an evolving ground structure approach](https://scholar.google.com/citations?view_op=view_citation&hl=en&user=oloLqe4AAAAJ&citation_for_view=oloLqe4AAAAJ:4DMP91E08xMC) | 2024 | 4 |
+| 6 | [Enhanced Performance Evaluation Through Neutrosophic Data Envelopment Analysis Leveraging Pentagonal Neutrosophic Numbers](https://scholar.google.com/citations?view_op=view_citation&hl=en&user=oloLqe4AAAAJ&citation_for_view=oloLqe4AAAAJ:Zph67rFs4hoC) | 2023 | 31 |
+| 7 | [Predicting the solution time for optimization problems using machine learning: Case of job shop scheduling problem](https://scholar.google.com/citations?view_op=view_citation&hl=en&user=oloLqe4AAAAJ&citation_for_view=oloLqe4AAAAJ:qxL8FJ1GzNcC) | 2023 | 6 |
+| 8 | [A Monte Carlo simulation approach to the gap-time relationship in solving scheduling problem](https://scholar.google.com/citations?view_op=view_citation&hl=en&user=oloLqe4AAAAJ&citation_for_view=oloLqe4AAAAJ:KlAtU1dfN6UC) | 2023 | 6 |
+| 9 | [Exact global optimization of frame structures for additive manufacturing](https://scholar.google.com/citations?view_op=view_citation&hl=en&user=oloLqe4AAAAJ&citation_for_view=oloLqe4AAAAJ:0EnyYjriUFMC) | 2022 | 14 |
+| 10 | [Design Optimization of Lightweight Structures for Additive Manufacturing](https://scholar.google.com/citations?view_op=view_citation&hl=en&user=oloLqe4AAAAJ&citation_for_view=oloLqe4AAAAJ:MXK_kJrjxJIC) | 2022 | 1 |
+| 11 | [Fast heuristic approach for control of complex authentication systems](https://scholar.google.com/citations?view_op=view_citation&hl=en&user=oloLqe4AAAAJ&citation_for_view=oloLqe4AAAAJ:hqOjcs7Dif8C) | 2021 | 7 |
+| 12 | [DELFİ VE TOPSIS YÖNTEMLERİ KULLANILARAK BİR MÜHENDİSLİK FAKÜLTESİNDEKİ BÖLÜMLERİN AKADEMİK PERFORMANS DEĞERLENDİRMESİ.](https://scholar.google.com/citations?view_op=view_citation&hl=en&user=oloLqe4AAAAJ&citation_for_view=oloLqe4AAAAJ:zYLM7Y9cAGgC) | 2015 | 6 |
+| 13 | [Performance evaluation of faculty departments by a Delphi method based on 2-Tuple fuzzy Linguistic representation model and TOPSIS](https://scholar.google.com/citations?view_op=view_citation&hl=en&user=oloLqe4AAAAJ&citation_for_view=oloLqe4AAAAJ:_FxGoFyzp5QC) | 2015 | 6 |
+| 14 | [Academic Performance Evaluation of the Departments in Engineering Faculty of a University by Utilizing TOPSIS and Fuzzy Delphi](https://scholar.google.com/citations?view_op=view_citation&hl=en&user=oloLqe4AAAAJ&citation_for_view=oloLqe4AAAAJ:d1gkVwhDpl0C) | 2014 | 0 |
+| 15 | [Bir mühendislik fakültesi bölümlerinin akademik performans değerlendirmesi](https://scholar.google.com/citations?view_op=view_citation&hl=en&user=oloLqe4AAAAJ&citation_for_view=oloLqe4AAAAJ:aqlVkmm33-oC) | 2011 | 0 |
+*Auto-updated every 3 hours via GitHub Actions · [View full list on Google Scholar](https://scholar.google.com/citations?user=oloLqe4AAAAJ&hl=en)*
 <!-- PUBLICATIONS_END -->
 
 </div> 
