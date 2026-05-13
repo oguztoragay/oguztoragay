@@ -2,7 +2,7 @@ import re
 import time
 from typing import Any, Callable, Iterable
 
-from scholarly import scholarly
+from scholarly import scholarly, ProxyGenerator
 
 USER_ID = "oloLqe4AAAAJ"
 BADGE_PREFIX_PATTERN = r"https://img\.shields\.io/badge/Google%20Scholar-"
@@ -44,6 +44,10 @@ def safe_int(value: Any, default: int = 0) -> int:
 
 
 def fetch_citation_count(user_id: str) -> int:
+    pg = ProxyGenerator()
+    pg.FreeProxies()
+    scholarly.use_proxy(pg)
+
     profile = retry("search_author_id", lambda: scholarly.search_author_id(user_id))
     profile = retry("fill profile", lambda: scholarly.fill(profile, sections=["basics"]))
     citation_count = safe_int(profile.get("citedby", 0))
