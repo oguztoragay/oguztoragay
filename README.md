@@ -1,10 +1,10 @@
 - Hi, I’m O&#287;uz Tora&#287;ay.
 - I’m interested in applied Operations Research (OR) and it's applications to solve engineering problems.
 - I mainly use Pyomo (Python Optimization Modeling Object) in my OR related projects.
-- Looking forward to collaborating on Mathematical modeling, Heuristic, and Metaheuristic approaches to solve real-world optimization problems specifically planning and scheduling robot assisted manufacturing, and transportation, logistics problems using drones.
+- Looking forward to collaborating on Mathematical modeling, Heuristic, and Metaheuristic approaches to solve real-world optimization problems specifically planning and scheduling robot assisted manufacturing.
 - Contact: ozt0008 at [auburn] dot [edu]
 
-<a href="https://or.stackexchange.com/users/39/oguz-toragay"><img src="https://or.stackexchange.com/users/flair/39.png?theme=dark" width="140" height="40" alt="profile for Oguz Toragay at Operations Research Stack Exchange, Q&amp;A for operations research and analytics professionals, educators, and students" title="profile for Oguz Toragay at Operations Research Stack Exchange, Q&amp;A for operations research and analytics professionals, educators, and students"></a> 
+<a href="https://or.stackexchange.com/users/39/oguz-toragay"><img src="https://or.stackexchange.com/users/flair/39.png?theme=dark" width="140" height="40" alt="profile for Oguz Toragay at Operations Research Stack Exchange, Q&amp;A for operations research and analytics professionals, educators, and students" title="profile for Oguz Toragay at Operations Research Stack Exchange, Q&amp;A for operations research and analytics professionals, educators, and students"></a>
 
 ![](https://komarev.com/ghpvc/?username=oguztoragay)
 [![Google Scholar](https://img.shields.io/badge/Google%20Scholar-<!-- CITATION_COUNT -->-4285F4?style=flat&logo=google-scholar&logoColor=white)](https://scholar.google.com/citations?user=oloLqe4AAAAJ&hl=en)
@@ -31,9 +31,9 @@
   <img align="center" alt="googleCloud" src="https://github.com/devicons/devicon/blob/master/icons/googlecloud/googlecloud-original.svg" title="googleCloud" width="30" height="30"/>&nbsp;
 </p>
 
-<p align="left">&#8210; Algebraic Modeling Languages (AMLs) &#8680;&nbsp; <img alt="Pyomo" src="https://www.sandia.gov/app/uploads/sites/122/2021/08/pyomo.png" height="30">&nbsp;&#8210;&nbsp; <img alt="ORtools" src="https://developers.google.com/static/optimization/images/orLogo.png" height="30">&nbsp;&#8210;&nbsp; <img alt="AMPL" src="https://ampl.com/wp-content/uploads/AMPL-site-logo-inline.svg" height="30"></p>
+<p align="left">&#8210; Algebraic Modeling Languages (AMLs) &#8680;&nbsp; <img alt="Pyomo" src="https://www.sandia.gov/app/uploads/sites/122/2021/08/pyomo.png" height="30">&nbsp;&#8210;&nbsp; <img alt="AMPL" src="https://ampl.com/wp-content/uploads/2022/10/logo-ampl.svg" height="30"></p>
 
-<p align="left">&#8210; Solvers &#8680;&nbsp; <img src="https://avatars.githubusercontent.com/u/15114496?s=280&v=4" height="30" style="vertical-align:middle">&nbsp;&#8210;&nbsp; <img src="https://upload.wikimedia.org/wikipedia/en/a/a7/COIN_OR_LOGO.png" height="30" style="vertical-align:middle">&nbsp;&#8210;&nbsp; <img src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSQIGiehc6O7UzM9gGwqN5V_wP3aZo86xcsZ7dmEt17RQ&s" height="25" style="vertical-align:middle"></p>
+<p align="left">&#8210; Solvers &#8680;&nbsp; <img src="https://avatars.githubusercontent.com/u/15114496?s=280&v=4" height="30" style="vertical-align:middle">&nbsp;&#8210;&nbsp; <img src="https://upload.wikimedia.org/wikipedia/commons/9/97/IBM_CPLEX_Studio_Logo.png" height="30" style="vertical-align:middle">&nbsp;&#8210;&nbsp; <img src="https://www.gurobi.com/wp-content/uploads/2021/10/gurobi-logo.png" height="30" style="vertical-align:middle"></p>
 
 <p align="left">
 &#8210 Machine Learning &#8680;&nbsp;
