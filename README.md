@@ -31,7 +31,7 @@
   <img align="center" alt="googleCloud" src="https://github.com/devicons/devicon/blob/master/icons/googlecloud/googlecloud-original.svg" title="googleCloud" width="30" height="30"/>&nbsp;
 </p>
 
-<p align="left">&#8210; Algebraic Modeling Languages (AMLs) &#8680;&nbsp; <img alt="Pyomo" src="https://www.sandia.gov/app/uploads/sites/122/2021/08/pyomo.png" height="30">&nbsp;&#8210;&nbsp; <img alt="AMPL" src="https://ampl.com/img/ampl-logo.png" height="30">&nbsp;</p>
+<p align="left">&#8210; Algebraic Modeling Languages (AMLs) &#8680;&nbsp; <img alt="Pyomo" src="https://www.sandia.gov/app/uploads/sites/122/2021/08/pyomo.png" height="30">&nbsp;&#8210;&nbsp; <img alt="AMPL" src="https://ampl.com/wp-content/uploads/AMPL-site-logo-inline.svg" height="30">&nbsp;</p>
 
 <p align="left">&#8210; Solvers &#8680;&nbsp; <img src="https://avatars.githubusercontent.com/u/15114496?s=280&v=4" height="30" style="vertical-align:middle">&nbsp;&#8210;&nbsp; <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/2/2c/CPLEX_logo.svg/1024px-CPLEX_logo.svg.png" height="30" style="vertical-align:middle">&nbsp;&#8210;&nbsp; <img src="https://www.gurobi.com/wp-content/uploads/Gurobi-Symbol.png" height="30" style="vertical-align:middle">&nbsp;</p>
 
