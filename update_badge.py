@@ -3,7 +3,7 @@ from scholarly import scholarly
 
 USER_ID = "oloLqe4AAAAJ"  # Replace with your Google Scholar user ID
 BADGE_PREFIX_PATTERN = r"https://img\.shields\.io/badge/Google%20Scholar-"
-BADGE_SUFFIX_PATTERN = r"-[^)\s]+"
+BADGE_SUFFIX_PATTERN = r"-[A-Za-z0-9]+(?:\?[^)\s]+)?"  # Color segment and optional query.
 CITATION_BADGE_PATTERN = (
     rf"(?P<prefix>{BADGE_PREFIX_PATTERN})"
     rf"(?P<count>\d+)"
@@ -13,7 +13,11 @@ CITATION_BADGE_PATTERN = (
 # Fetch profile and fill publications
 profile = scholarly.search_author_id(USER_ID)
 profile = scholarly.fill(profile)
-citation_count = profile['citedby']
+raw_citation_count = profile.get('citedby', 0)
+try:
+    citation_count = max(0, int(raw_citation_count))
+except (TypeError, ValueError):
+    citation_count = 0
 
 # Build sorted publications list (most recent first)
 publications = profile.get('publications', [])
