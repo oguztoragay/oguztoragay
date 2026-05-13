@@ -15,6 +15,7 @@ CITATION_BADGE_PATTERN = (
 # Fetch profile and fill publications
 profile = scholarly.search_author_id(USER_ID)
 profile = scholarly.fill(profile)
+print(f"Profile keys: {sorted(profile.keys())}")
 try:
     citation_count = max(0, int(profile.get('citedby', 0)))
 except (TypeError, ValueError):
@@ -22,8 +23,14 @@ except (TypeError, ValueError):
 
 # Build sorted publications list (most recent first)
 publications = profile.get('publications', [])
+print(f"Found {len(publications)} publications in profile.")
 rows = []
 for pub in publications:
+    try:
+        pub = scholarly.fill(pub)
+    except Exception as e:
+        print(f"Warning: failed to fill publication: {e}")
+
     bib = pub.get('bib', {})
     title = bib.get('title', 'N/A')
     year = bib.get('pub_year', 'N/A')
@@ -88,4 +95,3 @@ with open("README.md", "w", encoding="utf-8") as readme_file:
     readme_file.write(readme_content)
 
 print(f"README.md updated: {citation_count} citations, {len(rows)} publications.")
-
