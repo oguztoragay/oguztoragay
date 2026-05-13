@@ -1,7 +1,7 @@
-- Hi, I'm O&#287;uz Tora&#287;ay.
+- Hi, I'm Oğuz Torağay.
 - I'm interested in applied Operations Research (OR) and it's applications to solve engineering problems.
 - I mainly use Pyomo (Python Optimization Modeling Object) in my OR related projects.
-- Looking forward to collaborating on Mathematical modeling, Heuristic, and Metaheuristic approaches to solve real-world optimization problems specifically planning and scheduling robot assisted manufacturing operations.
+- Looking forward to collaborating on Mathematical modeling, Heuristic, and Metaheuristic approaches to solve real-world optimization problems specifically planning and scheduling robot assisted manufacturing systems.
 - Contact: ozt0008 at [auburn] dot [edu]
 
 <a href="https://or.stackexchange.com/users/39/oguz-toragay"><img src="https://or.stackexchange.com/users/flair/39.png?theme=dark" width="140" height="40" alt="profile for Oguz Toragay at Operations Research Stack Exchange, Q&amp;A for operations research and analytics professionals, educators, and students" title="profile for Oguz Toragay at Operations Research Stack Exchange, Q&amp;A for operations research and analytics professionals, educators, and students"></a>
@@ -31,9 +31,9 @@
   <img align="center" alt="googleCloud" src="https://github.com/devicons/devicon/blob/master/icons/googlecloud/googlecloud-original.svg" title="googleCloud" width="30" height="30"/>&nbsp;
 </p>
 
-<p align="left">&#8210; Algebraic Modeling Languages (AMLs) &#8680;&nbsp; <img alt="Pyomo" src="https://www.sandia.gov/app/uploads/sites/122/2021/08/pyomo.png" height="30">&nbsp;&#8210;&nbsp; <img alt="AMPL" src="https://imageio.forbes.com/specials-images/imageserve/5e55bd6bd378190007f45390/0x0.jpg?format=jpg&crop=1080,1080,x0,y0,safe&height=416&width=416&fit=bounds" height="30">&nbsp;&#8210;&nbsp; <img alt="Gurobi" src="https://www.gurobi.com/wp-content/uploads/gurobipy.png" height="30"></p>
+<p align="left">&#8210; Algebraic Modeling Languages (AMLs) &#8680;&nbsp; <img alt="Pyomo" src="https://www.sandia.gov/app/uploads/sites/122/2021/08/pyomo.png" height="30">&nbsp;&#8210;&nbsp; <img alt="AMPL" src="https://ampl.com/img/ampl-logo.png" height="30">&nbsp;</p>
 
-<p align="left">&#8210; Solvers &#8680;&nbsp; <img src="https://avatars.githubusercontent.com/u/15114496?s=280&v=4" height="30" style="vertical-align:middle">&nbsp;&#8210;&nbsp; <img src="https://upload.wikimedia.org/wikipedia/commons/c/c4/CPLEX_logo.svg" height="30">&nbsp;&#8210;&nbsp; <img src="https://cdn.prod.website-files.com/5f0c5ea115fa9c0e6d11dcd5/5f21dc52a01b0d76c8d30dc4_CBC-01.svg" height="30"></p>
+<p align="left">&#8210; Solvers &#8680;&nbsp; <img src="https://avatars.githubusercontent.com/u/15114496?s=280&v=4" height="30" style="vertical-align:middle">&nbsp;&#8210;&nbsp; <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/2/2c/CPLEX_logo.svg/1024px-CPLEX_logo.svg.png" height="30" style="vertical-align:middle">&nbsp;&#8210;&nbsp; <img src="https://www.gurobi.com/wp-content/uploads/Gurobi-Symbol.png" height="30" style="vertical-align:middle">&nbsp;</p>
 
 <p align="left">
 &#8210 Machine Learning &#8680;&nbsp;
