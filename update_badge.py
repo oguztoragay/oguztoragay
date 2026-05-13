@@ -2,11 +2,23 @@ import re
 from scholarly import scholarly
 
 USER_ID = "oloLqe4AAAAJ"  # Replace with your Google Scholar user ID
+BADGE_PREFIX_PATTERN = r"https://img\.shields\.io/badge/Google%20Scholar-"
+BADGE_SUFFIX_PATTERN = (
+    r"-(?:[0-9A-Fa-f]{3}(?:[0-9A-Fa-f]{3})?|[A-Za-z]+)(?:\?[^)\s]+)?"
+)
+CITATION_BADGE_PATTERN = (
+    rf"(?P<prefix>{BADGE_PREFIX_PATTERN})"
+    rf"(?P<count>\d+)"
+    rf"(?P<suffix>{BADGE_SUFFIX_PATTERN})"
+)
 
 # Fetch profile and fill publications
 profile = scholarly.search_author_id(USER_ID)
 profile = scholarly.fill(profile)
-citation_count = profile['citedby']
+try:
+    citation_count = max(0, int(profile.get('citedby', 0)))
+except (TypeError, ValueError):
+    citation_count = 0
 
 # Build sorted publications list (most recent first)
 publications = profile.get('publications', [])
@@ -53,8 +65,15 @@ pub_block = "\n".join(table_lines) + footer
 with open("README.md", "r", encoding="utf-8") as readme_file:
     readme_content = readme_file.read()
 
-# Replace the citation count placeholder
-readme_content = readme_content.replace("<!-- CITATION_COUNT -->", str(citation_count))
+# Replace the citation count placeholder or existing count in the badge URL
+readme_content, badge_subs = re.subn(
+    CITATION_BADGE_PATTERN,
+    rf"\g<prefix>{citation_count}\g<suffix>",
+    readme_content,
+)
+if badge_subs == 0:
+    print("Warning: citation badge URL not found; attempting placeholder replacement.")
+    readme_content = readme_content.replace("<!-- CITATION_COUNT -->", str(citation_count))
 
 # Replace the publications block between markers
 readme_content = re.sub(
