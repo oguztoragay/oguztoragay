@@ -41,30 +41,3 @@
   <img align="center" alt="Tensorflow" src="https://github.com/devicons/devicon/blob/master/icons/tensorflow/tensorflow-original.svg" title="Tensorflow" width="30" height="30"/>&nbsp;&#8210;
   <img align="center" alt="PyTorch" src="https://github.com/devicons/devicon/blob/master/icons/pytorch/pytorch-original.svg" title="PyTorch" width="30" height="30"/>&nbsp;
 </p>
-
-
-## 📚 Recent Publications
-
-<!-- PUBLICATIONS_START -->
-| # | Title | Year | Citations |
-|---|-------|------|-----------|
-| 1 | [Unraveling COVID-19's Impact on Raw Material Supply Chains and Production in the Turkish Pipe Industry: A Critical ANOVA and Advanced MCDM Evaluation](https://scholar.google.com/citations?view_op=view_citation&hl=en&user=oloLqe4AAAAJ&citation_for_view=oloLqe4AAAAJ:35N4QoGY0k4C) | 2024 | 0 |
-| 2 | [The green marine waste collector routing optimization with puma selection-based neighborhood search algorithm](https://scholar.google.com/citations?view_op=view_citation&hl=en&user=oloLqe4AAAAJ&citation_for_view=oloLqe4AAAAJ:j3f4tGmQtD8C) | 2024 | 2 |
-| 3 | [A mixed-integer programming framework for drone routing and scheduling with flexible multiple visits in highway traffic monitoring](https://scholar.google.com/citations?view_op=view_citation&hl=en&user=oloLqe4AAAAJ&citation_for_view=oloLqe4AAAAJ:Zph67rFs4hoC) | 2024 | 3 |
-| 4 | [A scenario-based approach for a green aggregate production planning in a multi-site manufacturing system with workforce transferring](https://scholar.google.com/citations?view_op=view_citation&hl=en&user=oloLqe4AAAAJ&citation_for_view=oloLqe4AAAAJ:W7OEmFMy1HYC) | 2024 | 4 |
-| 5 | [On optimization of lightweight planar frame structures: an evolving ground structure approach](https://scholar.google.com/citations?view_op=view_citation&hl=en&user=oloLqe4AAAAJ&citation_for_view=oloLqe4AAAAJ:KlAtU1dfN6UC) | 2024 | 4 |
-| 6 | [Enhanced Performance Evaluation Through Neutrosophic Data Envelopment Analysis Leveraging Pentagonal Neutrosophic Numbers](https://scholar.google.com/citations?view_op=view_citation&hl=en&user=oloLqe4AAAAJ&citation_for_view=oloLqe4AAAAJ:ZeXyd9-uunAC) | 2024 | 5 |
-| 7 | [Predicting the solution time for optimization problems using machine learning: Case of job shop scheduling problem](https://scholar.google.com/citations?view_op=view_citation&hl=en&user=oloLqe4AAAAJ&citation_for_view=oloLqe4AAAAJ:4DMP91E08xMC) | 2024 | 6 |
-| 8 | [A Monte Carlo simulation approach to the gap-time relationship in solving scheduling problem](https://scholar.google.com/citations?view_op=view_citation&hl=en&user=oloLqe4AAAAJ&citation_for_view=oloLqe4AAAAJ:HDshCWvjkbEC) | 2023 | 9 |
-| 9 | [Exact global optimization of frame structures for additive manufacturing](https://scholar.google.com/citations?view_op=view_citation&hl=en&user=oloLqe4AAAAJ&citation_for_view=oloLqe4AAAAJ:0EnyYjriUFMC) | 2022 | 23 |
-| 10 | [Design Optimization of Lightweight Structures for Additive Manufacturing](https://scholar.google.com/citations?view_op=view_citation&hl=en&user=oloLqe4AAAAJ&citation_for_view=oloLqe4AAAAJ:MXK_kJrjxJIC) | 2022 | 0 |
-| 11 | [Fast heuristic approach for control of complex authentication systems](https://scholar.google.com/citations?view_op=view_citation&hl=en&user=oloLqe4AAAAJ&citation_for_view=oloLqe4AAAAJ:hqOjcs7Dif8C) | 2019 | 1 |
-| 12 | [DELFİ VE TOPSIS YÖNTEMLERİ KULLANILARAK BİR MÜHENDİSLİK FAKÜLTESİNDEKİ BÖLÜMLERİN AKADEMİK PERFORMANS DEĞERLENDİRMESİ.](https://scholar.google.com/citations?view_op=view_citation&hl=en&user=oloLqe4AAAAJ&citation_for_view=oloLqe4AAAAJ:IjCSPb-OGe4C) | 2018 | 3 |
-| 13 | [Performance evaluation of faculty departments by a Delphi method based on 2-Tuple fuzzy Linguistic representation model and TOPSIS](https://scholar.google.com/citations?view_op=view_citation&hl=en&user=oloLqe4AAAAJ&citation_for_view=oloLqe4AAAAJ:5nxA0vEk-isC) | 2017 | 18 |
-| 14 | [Academic Performance Evaluation of the Departments in Engineering Faculty of a University by Utilizing TOPSIS and Fuzzy Delphi](https://scholar.google.com/citations?view_op=view_citation&hl=en&user=oloLqe4AAAAJ&citation_for_view=oloLqe4AAAAJ:UeHWp8X0CEIC) | 2017 | 10 |
-| 15 | [Bir mühendislik fakültesi bölümlerinin akademik performans değerlendirmesi](https://scholar.google.com/citations?view_op=view_citation&hl=en&user=oloLqe4AAAAJ&citation_for_view=oloLqe4AAAAJ:YsMSGLbcyi4C) | 2017 | 1 |
-| *Auto-updated every 12 hours via GitHub Actions · [View full list on Google Scholar](https://scholar.google.com/citations?user=oloLqe4AAAAJ&hl=en)* ||||
-
-<!-- PUBLICATIONS_END -->
-
-</div> 
