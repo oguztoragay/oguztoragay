@@ -4,8 +4,8 @@ from scholarly import scholarly
 USER_ID = "oloLqe4AAAAJ"  # Replace with your Google Scholar user ID
 CITATION_BADGE_PATTERN = (
     r"(https://img\.shields\.io/badge/Google%20Scholar-)"
-    r"(?:\d+|<!--\s*CITATION_COUNT\s*-->)"
-    r"(-[0-9A-Fa-f]{6})"
+    r"(?:\d+|<!--\s*CITATION_COUNT\s*-->)(?=-[0-9A-Fa-f]{3}(?:[0-9A-Fa-f]{3})?)"
+    r"(-[0-9A-Fa-f]{3}(?:[0-9A-Fa-f]{3})?)"
 )
 
 # Fetch profile and fill publications
