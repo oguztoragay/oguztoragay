@@ -6,7 +6,7 @@
 Penn State Great Valley · Malvern, PA
 
 ![](https://komarev.com/ghpvc/?username=oguztoragay)
-[![Google Scholar](https://img.shields.io/badge/Google%20Scholar-96-red?style=flat&logo=google-scholar&logoColor=white)](https://scholar.google.com/citations?user=oloLqe4AAAJ&hl=en)
+[![Google Scholar](https://img.shields.io/badge/Google%20Scholar-97-red?style=flat&logo=google-scholar&logoColor=white)](https://scholar.google.com/citations?user=oloLqe4AAAJ&hl=en)
 [![ResearchGate](https://img.shields.io/badge/ResearchGate-00CCBB?style=Flat&logo=ResearchGate&logoColor=white)](https://www.researchgate.net/profile/Oguz-Toragay/stats)
 [![Stack Exchange](https://img.shields.io/badge/StackExchange-%23ffffff.svg?style=Flat&logo=StackExchange&logoColor=blue)](https://or.stackexchange.com/users/39/oguz-toragay)
 [![LinkedIn](https://img.shields.io/badge/linkedin-%230077B5.svg?style=Flat&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/oguztoragay/)
