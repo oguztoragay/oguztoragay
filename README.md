@@ -19,9 +19,9 @@ Penn State Great Valley · Malvern, PA
 
 ## About Me
 
-I am an Assistant Professor of Engineering Management at **Penn State Great Valley**. I hold a Ph.D. in Industrial and Systems Engineering from **Auburn University**, where I was recognized as the **Outstanding Ph.D. Student of 2022** by the ISE faculty.
+I am an Assistant Professor of Engineering Management at **Penn State Great Valley**. I hold a Ph.D. in Industrial and Systems Engineering from **Auburn University**.
 
-My work sits at the intersection of **applied Operations Research** and **engineering systems**, with a focus on building mathematical models and intelligent algorithms that solve complex, real-world planning and scheduling problems.
+My work sits at the intersection of **applied Operations Research** and **engineering systems**, with a focus on building mathematical models and intelligent algorithms that solve complex, real-world decision-making, planning and scheduling problems.
 
 ---
 
@@ -30,7 +30,7 @@ My work sits at the intersection of **applied Operations Research** and **engine
 - **Mathematical Optimization** — Linear, Nonlinear, MILP, MINLP
 - **Scheduling** — Robot-assisted manufacturing systems, Job shop scheduling
 - **Metaheuristics & Heuristics** — Approximate solution methods (applications in queueing theory)
-- **Drone Routing & Scheduling** — Highway monitoring, emergency responses, medical supply chain
+- **Drone Routing & Scheduling** — Highway monitoring, emergency responses, traffic monitoring, medical supply chain
 - **Machine Learning for Optimization** — Predicting solver computation times
 
 ---
