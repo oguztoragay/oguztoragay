@@ -1,2 +1,3 @@
-scholarly
-httpx<0.28.0
+bibtexparser<2
+scholarly==1.7.11
+httpx==0.27.2
